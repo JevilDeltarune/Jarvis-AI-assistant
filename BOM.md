@@ -17,7 +17,7 @@
 | [I2S Microphone](https://www.aliexpress.us/item/3256809766096721.html?algo_exp_id=b049d6de-3161-416b-b203-4524beecc256-2&pdp_ext_f=%7B%22order%22%3A%22334%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009952411473%7C_p_origin_prod%3A) | Picks up audio for the chatbot | 1 | $3.00 | $3.00 | [AliExpress](https://www.aliexpress.us/item/3256809766096721.html?algo_exp_id=b049d6de-3161-416b-b203-4524beecc256-2&pdp_ext_f=%7B%22order%22%3A%22334%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009952411473%7C_p_origin_prod%3A) |
 | [MAX 98357A](https://www.aliexpress.us/item/3256812266045862.html?mp=1&gatewayAdapt=glo2usa) | Audio | 1 | $2.49 | $2.49 | [AliExpress](https://www.aliexpress.us/item/3256812266045862.html?mp=1&gatewayAdapt=glo2usa) |
 | **Parts subtotal** | — | — | — | **$12.18** | — |
-| **Tax & shipping** | — | — | — | **$9.15** | — |
-| **Total** | — | — | — | **$21.33** | — |
+| **Tax & shipping** | — | — | — | **$14.00** | — |
+| **Total** | — | — | — | **$26.18** | — |
 
-$8.67 left of the tier's funding.
+$3.82 left of the tier's funding.
