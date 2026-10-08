@@ -16,7 +16,7 @@
 | [1.54 inch display](https://www.aliexpress.us/item/3256810220991468.html?src=google&gatewayAdapt=glo2usa) | Shows the chatbots text and thinking | 1 | $1.73 | $1.73 | [AliExpress](https://www.aliexpress.us/item/3256810220991468.html?src=google&gatewayAdapt=glo2usa) |
 | [I2S Microphone](https://www.aliexpress.us/item/3256809766096721.html?algo_exp_id=b049d6de-3161-416b-b203-4524beecc256-2&pdp_ext_f=%7B%22order%22%3A%22334%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009952411473%7C_p_origin_prod%3A) | Picks up audio for the chatbot | 1 | $3.00 | $3.00 | [AliExpress](https://www.aliexpress.us/item/3256809766096721.html?algo_exp_id=b049d6de-3161-416b-b203-4524beecc256-2&pdp_ext_f=%7B%22order%22%3A%22334%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009952411473%7C_p_origin_prod%3A) |
 | **Parts subtotal** | — | — | — | **$9.69** | — |
-| **Tax & shipping** | — | — | — | **$6.28** | — |
-| **Total** | — | — | — | **$15.97** | — |
+| **Tax & shipping** | — | — | — | **$9.15** | — |
+| **Total** | — | — | — | **$18.84** | — |
 
-$14.03 left of the tier's funding.
+$11.16 left of the tier's funding.
