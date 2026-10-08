@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [ESP32-S3 N16R8](https://www.aliexpress.us/item/3256812230954109.html?src=google&gatewayAdapt=glo2usa) | Main Processor and Microcontroller | 1 | $8.14 | $8.14 | [AliExpress](https://www.aliexpress.us/item/3256812230954109.html?src=google&gatewayAdapt=glo2usa) |
 | **Parts subtotal** | — | — | — | **$8.14** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$8.14** | — |
+| **Tax & shipping** | — | — | — | **$6.28** | — |
+| **Total** | — | — | — | **$14.42** | — |
 
-$21.86 left of the tier's funding.
+$15.58 left of the tier's funding.
