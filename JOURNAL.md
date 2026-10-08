@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11.5h | 4 |
+| Week 1 | Tier 1 | 12h | 4 |
 
 ## Contents
 
@@ -92,7 +92,7 @@ I think the main things I will be working on for now is mainly software related,
 
 ### 2026-10-07 – PCB TIME!!!
 
-**3h**
+**3.5h**
 
 PCB TIME!!!
 
